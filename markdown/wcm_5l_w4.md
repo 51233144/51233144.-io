@@ -1,3 +1,10 @@
+Title: WCM 五專第五週課程內容
+Date: 2024-03-18 11:00
+Category: 五專
+Tags: Chatgpt, w5
+Slug: wcm-5j-w5
+Author: kmol
+---
 Title: WCM 五專第四週課程內容 Date: 2024-03-11 11:00 Category: 五專 Tags: 計概, 分組, w4 Slug: wcm-5j-w4 Author: kmol
 以下為五專精密機械科網際內容管理課程第四週上課內容, 包括回顧計算機概論, 以及如何在網頁推送至 Github 倉儲之前檢查所編輯的網頁內容.
 
